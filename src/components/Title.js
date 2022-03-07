@@ -11,8 +11,12 @@ class Title extends React.Component {
   }
 }
 
-Title.protoTypes = {
+Title.propTypes = {
   headline: PropType.string,
+};
+
+Title.defaultProps = {
+  headline: 'titulo',
 };
 
 export default Title;
