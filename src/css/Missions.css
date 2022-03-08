@@ -1,0 +1,10 @@
+.missionsContainer {
+  margin: auto;
+  max-width: 800px;
+}
+
+.missions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

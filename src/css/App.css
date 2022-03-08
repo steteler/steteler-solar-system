@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('../images/background.png');
+  color: white;
+  text-align: center;
+}

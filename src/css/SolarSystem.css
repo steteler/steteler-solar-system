@@ -1,0 +1,9 @@
+.planetsContainer {
+  margin: auto;
+  max-width: 800px;
+}
+
+.planets {
+  display: flex;
+  flex-wrap: wrap;
+}
